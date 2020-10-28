@@ -1,6 +1,6 @@
 # Method of moments for geometric random variable
 
-Now that you know that the expectation for a geometric random variable with parameter p is given by:
+The expectation for a geometric random variable with parameter p is given by:
 
 ![](https://render.githubusercontent.com/render/math?math=\mathbb{E}(X)=\frac{1}{p})
 
